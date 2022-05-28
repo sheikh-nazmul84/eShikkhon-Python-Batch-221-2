@@ -1,4 +1,4 @@
-eShikhon Class
+eShikkhon Class
 
 Pull Request testing = Arnob Reduan
 
@@ -9,5 +9,5 @@ Pull Request Testing = Bipul
 
 
 Pull Request Testing = Mostafa Kamal Rinko
-Pull Request Testing == Sheikh Nazmul Hasan 
+Pull Request Testing = Sheikh Nazmul Hasan 
 
